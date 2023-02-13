@@ -1,0 +1,62 @@
+body{
+  background-color: #FADADD;
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #FADADD 40%, #ffa6af);
+}
+
+#i_love_you {
+	width: 770px;
+	margin: 0 auto;
+	display: block;
+}
+
+html{
+  user-select: none;
+}
+
+.heart_button {
+  height: auto;
+  font-size: 200px;
+  transition: 0.3s;
+}
+.heart_button:hover{
+  font-size: 300px;
+  transition: 0.5s;
+}
+
+.timer{
+  font-size: 50px;
+}
+
+.btn:focus{
+  box-shadow: none;
+}
+
+#modalWindow{
+  background-color: #FADADD;
+  /* background-image: linear-gradient(to bottom, #FADADD 40%, #ffa6af); */
+  box-shadow: 0 0 10px black;
+}
+
+.easter_egg{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.easter_egg:hover{
+  background-color: rgba(255, 0, 0, 0.03);
+}
+
+#egg1{
+  margin-left: 670px;
+  margin-top: 80px;
+  width: 340px;
+  height: 230px;
+}
+
+#egg2{
+  margin-left: 1070px;
+  margin-top: 80px;
+  width: 280px;
+  height: 230px;
+}
