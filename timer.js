@@ -16,8 +16,8 @@ let end_date1 = {
     "full_year": "2023", // Год
     "month": "02", // Номер месяца
     "day": "14", // День
-    "hours": "00", // Час
-    "minutes": "30", // Минуты
+    "hours": "01", // Час
+    "minutes": "00", // Минуты
     "seconds": "00" // Секунды
 }
 let end_date2 = {
