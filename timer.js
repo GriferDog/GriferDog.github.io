@@ -17,7 +17,7 @@ let end_date1 = {
     "month": "02", // Номер месяца
     "day": "14", // День
     "hours": "01", // Час
-    "minutes": "00", // Минуты
+    "minutes": "15", // Минуты
     "seconds": "00" // Секунды
 }
 let end_date2 = {
